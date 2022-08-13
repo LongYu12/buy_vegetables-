@@ -1,0 +1,18 @@
+// Sql语句
+// 引入动态SQL类
+const { SQL } = require('../utils/sqlHandel')
+
+// 实现派生类
+class likesSql extends SQL {
+  super(option) {
+    this.option = option
+  }
+}
+
+// 实例user派生类
+const likes = new likesSql({table: "likes", connect: ""})
+ 
+// 
+module.exports = {
+  likes
+}

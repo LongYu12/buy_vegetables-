@@ -1,0 +1,31 @@
+{
+  "name": "Loa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node bin/www",
+    "dev": "nodemon bin/www"
+  },
+  "dependencies": {
+    "debug": "^4.3.3",
+    "excel-export": "^0.5.1",
+    "js-base64": "^3.7.2",
+    "jsonwebtoken": "^8.5.1",
+    "koa": "^2.13.4",
+    "koa-body": "^4.2.0",
+    "koa-bodyparser": "^4.3.0",
+    "koa-cors": "^0.0.16",
+    "koa-logger": "^3.2.1",
+    "koa-onerror": "^4.2.0",
+    "koa-router": "^10.1.1",
+    "koa-static": "^5.0.0",
+    "md5": "^2.3.0",
+    "moment": "^2.29.3",
+    "mysql": "^2.18.1",
+    "nanoid": "^3.3.1",
+    "node-xlsx": "^0.21.0",
+    "nodemon": "^2.0.15",
+    "request": "^2.88.2"
+  }
+}
