@@ -70,6 +70,10 @@ const openNewAdressInpput = () => {
   showAddInput.value = true;
   console.log(proxy);
 };
+
+const getMM = () => {
+	return '会很厚'
+}
 </script>
 
 <style scoped lang="less">
