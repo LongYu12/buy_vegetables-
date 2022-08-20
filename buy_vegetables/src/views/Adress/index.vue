@@ -74,6 +74,7 @@ const openNewAdressInpput = () => {
 const getMM = () => {
 let a= ' 我是天才？？'
 	console.log('我喜欢')
+let linjiang = '一人'
 }
 </script>
 
