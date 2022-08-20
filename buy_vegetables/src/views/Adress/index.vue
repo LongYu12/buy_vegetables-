@@ -72,7 +72,7 @@ const openNewAdressInpput = () => {
 };
 
 const getMM = () => {
-	return '会很厚'
+	console.log('我喜欢')
 }
 </script>
 
