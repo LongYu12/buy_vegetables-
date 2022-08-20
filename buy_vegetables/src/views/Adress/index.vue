@@ -72,6 +72,7 @@ const openNewAdressInpput = () => {
 };
 
 const getMM = () => {
+let a= ' 我是天才？？'
 	console.log('我喜欢')
 }
 </script>
