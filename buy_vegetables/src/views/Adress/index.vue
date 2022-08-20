@@ -70,6 +70,11 @@ const openNewAdressInpput = () => {
   showAddInput.value = true;
   console.log(proxy);
 };
+
+const getMM = () => {
+let a= ' 我是天才？？'
+	console.log('我喜欢')
+}
 </script>
 
 <style scoped lang="less">
