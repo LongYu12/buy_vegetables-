@@ -74,6 +74,8 @@ const openNewAdressInpput = () => {
 const getMM = () => {
 let i = 'tijiao '
 }
+
+const newm = '你好'
 </script>
 
 <style scoped lang="less">
