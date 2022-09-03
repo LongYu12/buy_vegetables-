@@ -1,29 +1,6 @@
 # Vue 3 + TypeScript + Vite
-f
-sef
-sefsefs
-efsefsef
-sefsefsfsfs
-## Recommended IDE Setup
+基于技术栈开发
 
-esfesfsepofkosekflsenmfklnseklfmsef
-f
-sef
-sefsefs
-efsefsef
-sefsefsfsfs
+ 
 ## Type Support For `.vue` Imports in TS
-
-sefesfesfsefsefdf
-f
-sef
-sefsefs
-efsefsef
-sefsefsfsfs
-fsfsef
-
-f
-sef
-sefsefs
-efsefsef
-sefsefsfsfs
+ 
