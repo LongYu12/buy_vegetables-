@@ -1,5 +1,5 @@
 # Vue 3 + TypeScript + Vite
-åŸºäºæŠ€æœ¯æ ˆå¼€å‘
+»ùÓÚ¼¼ÊõÕ»¿ª·¢
 
  
 ## Type Support For `.vue` Imports in TS
