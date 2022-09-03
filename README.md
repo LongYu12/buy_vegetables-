@@ -1,15 +1,17 @@
 # Vue 3 + TypeScript + Vite
-dqwedqwdqwdd
-d
-awdawd
-a
-daw
-dawd
-aw
+f
+sef
+sefsefs
+efsefsef
+sefsefsfsfs
 ## Recommended IDE Setup
 
 esfesfsepofkosekflsenmfklnseklfmsef
-
+f
+sef
+sefsefs
+efsefsef
+sefsefsfsfs
 ## Type Support For `.vue` Imports in TS
 
 sefesfesfsefsefdf
@@ -20,4 +22,8 @@ efsefsef
 sefsefsfsfs
 fsfsef
 
-You can learn more about Take Over mode [here](https://github.com/johnsoncodehk/volar/discussions/471).
+f
+sef
+sefsefs
+efsefsef
+sefsefsfsfs
