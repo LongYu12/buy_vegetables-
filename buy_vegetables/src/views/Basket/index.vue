@@ -23,7 +23,7 @@
       </div>
       <div class="settlement flex j-b a-c">
         <div class="settlement_item totle">总数：10</div>
-        <div class="settlement_item totle">总金额：10</div>
+        <div class="settlement_item totle">总金额：100</div>
         <div class="settlement_item btn">结算</div>
       </div>
     </div>
